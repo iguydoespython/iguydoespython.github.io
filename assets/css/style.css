@@ -1,6 +1,4 @@
 
-@import "{{ site.theme }}";
-
 a[href$="https://iguydoespython.github.io/"] {
   display: none;
 }
