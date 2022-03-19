@@ -1,6 +1,6 @@
 
 @import "{{ site.theme }}";
 
-header {
+a[href$="https://iguydoespython.github.io/"] {
   display: none;
 }
