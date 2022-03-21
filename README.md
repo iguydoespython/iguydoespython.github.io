@@ -20,7 +20,8 @@ We'll break things down as follows
 2. Python
 3. Common Python Packages
 4. Python Web Frameworks
-5. Getting started with Open Source on IBM i
-6. Python on IBM i
+5. Git
+6. Getting started with Open Source on IBM i
+7. Python on IBM i
 
 
