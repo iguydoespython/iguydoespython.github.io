@@ -16,8 +16,8 @@ Throughout these documents I'll discuss what I think is the best way to tackle a
 
 We'll break things down as follows
 
-1. Linux is your Friend
-2. Getting started with Python
+1. Linux
+2. Python
 3. Common Python Packages
 4. Python Web Frameworks
 5. Getting started with Open Source on IBM i
