@@ -10,7 +10,7 @@ I started coding Python in 2005 and haven't looked back. As with any worthwhile 
 * PDF reports/document
 * Excel documents
 * integrate with remote API
-* and much more
+* and much more...
 
 Throughout these documents I'll discuss what I think is the best way to tackle a task. As with everything in open source, there is more than one way to do something. The content here is based on my experience and my opinion, don't read more into it than that.
 
