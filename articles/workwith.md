@@ -1,12 +1,12 @@
 # Work With Interface
 
 * [Introduction](#introduction)
-* [Our Solution](#out-solution)
+* [Our Solution](#our-solution)
 * [Installation](#installation)
 * [CSS Frameworks](#css-frameworks)
 * [Create Application from _scaffold](#create-application-from-_scaffold)
-* [Define Model](#defiine-model)
-* [Define layout.py](#define_layout.html)
+* [Define the Model](#defiine-the-model)
+* [Define layout.html](#define-layout.html)
 * [Create grid template](#create-grid-template)
 * [Create controller method](#create-controller-method)
 
@@ -143,7 +143,7 @@ Open up `templates/layout.html` and copy the following code block into it.
 
 This will set our web app to use the bulma CSS framework along with a couple customizations for py4web.
 
-## Create the Grid Template
+## Create Grid Template
 
 Next we'll create the template to use for our Work With page. Create file `templates/grid.html` and copy in the
 following code block.
@@ -156,7 +156,7 @@ following code block.
 The first line tell us to extend the layout.html file we created above. This code will be placed in the [[include]]
 block in layout.html.
 
-## Create the Controller Method
+## Create Controller Method
 
 Now that we have all the setup work done we can write the code that will handle our web requests. By default,
 controller methods are stored in `controllers.py`. Let's open up `controllers.py` and copy the following imports at
