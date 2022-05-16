@@ -193,8 +193,6 @@ def contacts(path=None):
 
 ```
 
-## Wrap Up
-
 Let's do a quick review of what each line above does.
 
 * @action() - these two lines define the url path within the application. The first one handles the grid or select
@@ -211,6 +209,8 @@ Let's do a quick review of what each line above does.
 * return - pass a dict to the template making the `grid` variable available for use in the template.
 
 That's it! Restart the py4web server and then navigate to `http://127.0.0.1:8000/contacts/contacts`.
+
+## Wrap Up
 
 You should now have a fully functional Work With page to add/change/delete contacts in your contact table.
 
