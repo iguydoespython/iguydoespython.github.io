@@ -6,7 +6,7 @@
 * [CSS Frameworks](#css-frameworks)
 * [Create Application from _scaffold](#create-application-from-_scaffold)
 * [Define the Model](#define-the-model)
-* [Define layout.html](#define-layout.html)
+* [Define Main Template](#define-main-template)
 * [Create grid template](#create-grid-template)
 * [Create controller method](#create-controller-method)
 
@@ -102,7 +102,7 @@ statements run
 on the database to create the tables. The other files are the files used to keep track of the status of all
 tables/migrations.
 
-## Define layout.html
+## Define Main Template
 
 As mentioned above our application is going to use the Bulma templating system to style our pages. In py4web as
 with other web frameworks you can define a master template which all other templates can extend to enforce a
