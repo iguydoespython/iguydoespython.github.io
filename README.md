@@ -24,5 +24,5 @@ We'll break things down as follows
 6. Getting started with Open Source on IBM i
 7. Python on IBM i
 
-
-[Work With](articles/workwith.md)
+## Articles
+* [Work With Interface](articles/workwith.md)
