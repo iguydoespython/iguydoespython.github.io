@@ -1,16 +1,14 @@
-# Outline
+# Work With Interface
 
-* Introduction
-* Our Solution - introduce py4web
-* Installation
-* CSS Framework - bulma.io
-* Create Application from _scaffold
-* Define Model
-* Define layout.py (bulma.io starter template)
-* Create grid template
-* Create controller method
-* Sample Data
-* References
+* [Introduction](#introduction)
+* [Our Solution](#out-solution)
+* [Installation](#installation)
+* [CSS Frameworks](#css-frameworks)
+* [Create Application from _scaffold](#create-application-from-_scaffold)
+* [Define Model](#defiine-model)
+* [Define layout.py](#define_layout.html)
+* [Create grid template](#create-grid-template)
+* [Create controller method](#create-controller-method)
 
 ## Introduction
 
@@ -54,7 +52,7 @@ out there to choose from. For this tutorial we'll be using the [Bulma](https://b
 [Getting Started with Bulma](https://bulma.io/documentation/overview/start/) page to view the starter template we'll
 be using. (don't stress over it, we'll cover it later)
 
-## Create initial application from _scaffold
+## Create application from _scaffold
 
 At this point you should have
 
@@ -68,7 +66,7 @@ new directory `contacts`.
 In your browser you should now be able to navigate to http://127.0.0.1:8000/contacts and see the default py4web
 application page.
 
-## Define the model (database)
+## Define the model
 
 Database definitions in py4web live in the `models.py` file in the `contacts` directory. Our application requires only 1
 table, the `contact` table.
