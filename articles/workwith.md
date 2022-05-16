@@ -9,6 +9,7 @@
 * [Define Main Template](#define-main-template)
 * [Create grid template](#create-grid-template)
 * [Create controller method](#create-controller-method)
+* [Wrap Up](#wrap-up)
 
 ## Introduction
 
@@ -191,6 +192,8 @@ def contacts(path=None):
     return dict(grid=grid)
 
 ```
+
+## Wrap Up
 
 Let's do a quick review of what each line above does.
 
