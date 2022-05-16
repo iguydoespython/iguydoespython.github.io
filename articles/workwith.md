@@ -5,7 +5,7 @@
 * [Installation](#installation)
 * [CSS Frameworks](#css-frameworks)
 * [Create Application from _scaffold](#create-application-from-_scaffold)
-* [Define the Model](#defiine-the-model)
+* [Define the Model](#define-the-model)
 * [Define layout.html](#define-layout.html)
 * [Create grid template](#create-grid-template)
 * [Create controller method](#create-controller-method)
