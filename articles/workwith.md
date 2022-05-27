@@ -36,8 +36,9 @@ install Python.
 
 ## Installation
 
-For this tutorial we'll be installing Python on our local workstation (a future 
-article will cover installation on IBM i).  A complete guide to installation is outside the scope of this article.
+For this tutorial we'll be installing Python on our local workstations (a future 
+article will cover installation/deployment on IBM i).  A complete guide to installation is outside the scope of this 
+article.
 
 To get started you'll need both Python and py4web installed on your system.
 
