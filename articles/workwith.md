@@ -220,4 +220,7 @@ Since this is an introduction article we've skipped over a lot of the details to
 create the Work With page. You can refer
 to the grid chapter in the
 [py4web Manual](https://py4web.com/_documentation/static/en/chapter-14.html) to get a feel for all the other options
-available to grid.
+available to grid. Additionally there is a github repo with many beginner to advanced tutorials on using the py4web 
+grid available [here](https://github.com/jpsteil/grid_tutorial).
+
+Happy Coding!
