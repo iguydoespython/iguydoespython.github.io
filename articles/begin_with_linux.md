@@ -72,4 +72,6 @@ You can get started for very little money and not have to worry about access to 
 Once you have become comfortable with Linux, transitioning to IBM i is trivial. 
 The IBM engineers have done a great job of making open source packages available on IBM i via the YUM package manager.
 
+Happy Coding!
+
 
