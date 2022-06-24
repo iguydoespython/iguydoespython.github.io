@@ -25,4 +25,5 @@ We'll break things down as follows
 7. Python on IBM i
 
 ## Articles
+* [Begin with Linux](articles/begin_with_linux.md)
 * [Work With Interface](articles/workwith.md)
