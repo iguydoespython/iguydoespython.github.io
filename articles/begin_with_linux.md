@@ -7,12 +7,12 @@ Once you've become familiar with Linux, working in a shell on IBM i becomes triv
 ## Hardware
 Do yourself a favor and install Linux on an old desktop or laptop. While this will be quite frustrating in the beginning, it will pay large dividends down the road.
 And, you should be able to do this for little to no money involved. 
-Check online resources, Facebook Marketplace, Craigslist or eBay. Woot often has good deals on refurbished desktops or laptops.
+Check online resources, Facebook Marketplace, Craigslist or eBay. Woot often has good deals on refurbished desktops and laptops.
 You should be able to find a good computer for not a lot of cash.
 
 You won't need a lot of power for this system as it will be a simple development machine. 
 Focus on something with a solid state drive and 8-16gig of RAM (alternatively, something where you can upgrade the RAM). 
-Windows requires a lot more horsepower to run, than Linux. 
+Windows requires a lot more horsepower to run than Linux. 
 Don't feel like you need the latest and greatest specs to get started. 
 This is a system you're going to be learning on, not a high-end development machine.
 
@@ -59,7 +59,7 @@ Windows is famous for being a point and click user interface. While Linux allows
 Unfortunately, terminal commands in Linux don't follow the convenient IBM i command naming conventions.
 Instead, you have to learn and remember each command on their own.
 
-[DistroTube](https://www.youtube.com/c/DistroTube) has a [Beginner's Guide to the Linux Terminal] video on YouTube.
+[DistroTube](https://www.youtube.com/c/DistroTube) has a [Beginner's Guide to the Linux Terminal](https://www.youtube.com/watch?v=s3ii48qYBxA&t=27s) video on YouTube.
 
 ## Integrated Development Environment (IDE)
 Since you're going to be coding on this system we'll need to have an IDE available.
