@@ -63,7 +63,7 @@ At this point you should have
 - py4web running and have access to the [_dashboard](http://127.0.0.1:8000/_dashboard) app
 - Know where your py4web `apps` directory is
 
-Locate the _scaffold directory inside your `apps` directory and copy the entire directory to directory. Call the
+Locate the _scaffold directory inside your `apps` directory and copy the entire directory to a new directory. Call the
 new directory `contacts`.
 
 In your browser you should now be able to navigate to http://127.0.0.1:8000/contacts and see the default py4web
