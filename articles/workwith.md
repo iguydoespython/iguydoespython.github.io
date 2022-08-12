@@ -173,7 +173,7 @@ from py4web.utils.grid import Grid, GridClassStyleBulma
 Here we're giving ourselves access to the py4web utilities to build Forms and Grids. Also importing the
 Bulma-specific styling methods.
 
-Next, copy the following to the bottom of the file.
+Next, copy the following into the bottom of the file.
 
 ```python
 @action("contacts", method=["POST", "GET"])
